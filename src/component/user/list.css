@@ -1,0 +1,10 @@
+.user-list{
+    border: 1px solid;
+    box-shadow: 2px 2px;
+    margin: 10px auto;
+    padding: 0px 0px;
+}
+
+.user-list th {
+    background-color: rgb(211, 182, 238);
+}
